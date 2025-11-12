@@ -44,6 +44,7 @@
 
 These repositories are currently finished and would not have big changes recently:
 
-[![Wordcloud_Distribution](https://github-readme-stats.vercel.app/api/pin/?username=stonehfzs&theme=nord&repo=Wordcloud_Distribution)](https://github.com/stonehfzs/Wordcloud_Distribution)
-[![Blackboard-Crawler](https://github-readme-stats.vercel.app/api/pin/?username=stonehfzs&theme=nord&repo=Blackboard-Crawler)](https://github.com/stonehfzs/Blackboard-Crawler)
-[![Real-Analysis-Notes](https://github-readme-stats.vercel.app/api/pin/?username=stonehfzs&theme=nord&repo=Real-Analysis-Notes)](https://github.com/stonehfzs/Real-Analysis-Notes)
+[![HD_ODE_Test_Information](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=HD_ODE_Test_Information)](https://github.com/AndyRong921/HD_ODE_Test_Information)
+[![OUC_Haide_ODE_NOTES](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=OUC_Haide_ODE_NOTES)](https://github.com/AndyRong921/OUC_Haide_ODE_NOTES)
+[![HaideNews_LatexCourse_Web](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=HaideNews_LatexCourse_Web)](https://github.com/AndyRong921/HaideNews_LatexCourse_Web)
+[![haidemath.github.io](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=haidemath.github.io)](https://github.com/AndyRong921/haidemath.github.io)
