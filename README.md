@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![](https://img.shields.io/github/followers/stonehfzs?logo=github&labelColor=2E3440&color=88C0D0)](https://github.com/stonehfzs)
 [![](https://img.shields.io/badge/Website-stonehfzs.github.io-blue?logo=safari&logoColor=white)](https://stonehfzs.github.io/)
 [![](https://img.shields.io/badge/stonehfzs-Github-blue?logo=github)](https://github.com/stonehfzs)
 [![](https://img.shields.io/badge/禾风之水-Bilibili-FB7299?logo=bilibili)](https://space.bilibili.com/498816517)
