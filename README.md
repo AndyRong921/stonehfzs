@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Website-AndyRong921.github.io-blue?logo=safari&logoColor=white)](https://AndyRong921.github.io/)
+
 [![](https://img.shields.io/badge/AndyRong921-Github-blue?logo=github)](https://github.com/AndyRong921)
-[![](https://img.shields.io/badge/AndyRong921-Bilibili-FB7299?logo=bilibili)](https://space.bilibili.com/1816242336)
-[![](https://img.shields.io/badge/AndyRong921-知乎-0084FF?logo=zhihu)](https://www.zhihu.com/people/pink-ocean-32)
-[![](https://img.shields.io/badge/AndyRong921-小红书-FF2442?logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/661110f200000000030309c3)
-[![](https://img.shields.io/badge/AndyRong921-CSDN-FC5531?logo=csdn&logoColor=white)](https://blog.csdn.net/2301_80135665)
+[![](https://img.shields.io/badge/萌萌的小七仔-Bilibili-FB7299?logo=bilibili)](https://space.bilibili.com/1816242336)
+[![](https://img.shields.io/badge/PinkOcean-知乎-0084FF?logo=zhihu)](https://www.zhihu.com/people/pink-ocean-32)
+[![](https://img.shields.io/badge/萌萌的小七仔-小红书-FF2442?logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/661110f200000000030309c3)
+[![](https://img.shields.io/badge/萌萌的小七仔-CSDN-FC5531?logo=csdn&logoColor=white)](https://blog.csdn.net/2301_80135665)
 </div>
 
 ---
