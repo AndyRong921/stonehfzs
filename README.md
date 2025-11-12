@@ -17,8 +17,9 @@
 - 🎓 I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**.
 - 🌱 My interests and learning focus are: **Deep Learning**, **Image Recognition & Classification**, **Optimization & Operations Research**, and **Graph Theory**.
 - 🏆 In mathematical modeling competitions, my main focus is **Problem B (National Contest)** and **Problem D (MCM/ICM)**, specializing in the Optimization/OR direction.
-- 📫 How to reach me: **rzj(at)stu.ouc.edu.cn**
+- 📫 How to reach me: **rzj@stu.ouc.edu.cn**
 - 💬 Ask me about: Any of the topics above!
+  
 
 ## Github Insights
 
